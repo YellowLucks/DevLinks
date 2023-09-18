@@ -5,43 +5,40 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a href="#memo-licença">Licença</a>
-
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
-  <img src="License" alt="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" alt="License">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="projeto DevLinks" alt=".github/preview.jpg" width="100%">
-</P>
+  <img src=".github/preview.jpg" alt="projeto DevLinks" width="100%">
+</p>
 
-🚀 Tecnologias
+# 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML e CSS
-JavaScript
-Git e Github
-Figma
-💻 Projeto
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+# 💻 Projeto
+
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-Acesse o projeto finalizado, online
+# 🔖 Layout
 
-Assistir aulas
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/ELii2NvKPkL2bSV8AECq1a/DevLinks-•-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=design&t=crDHSFoZEeWCDZGB-0>). É necessário ter conta no [Figma](https://www.figma.com) para acessá-lo.
 
-🔖 Layout
-Você pode visualizar o layout do projeto através DESSE LINK. É necessário ter conta no Figma para acessá-lo.
+# 📝 Licença
 
-📝 Licença
 Esse projeto está sob a licença MIT.
 
-Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade!
+Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
